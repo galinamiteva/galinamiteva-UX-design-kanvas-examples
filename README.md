@@ -1,2 +1,2 @@
 # galinamiteva-UX-design-kanvas-examples
-4 beautifull canvas
+6 beautifull canvas - exampel på rendering som backgroung-canvas-backgr
