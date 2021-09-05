@@ -1,0 +1,12 @@
+.ball {
+    position: absolute;
+    border-radius: 100%;
+    opacity: 0.7;
+  }
+
+.hero{
+    background-image: url(bild.hero.phg);
+   position: absolute;
+   top: 0;
+   z-index: 1;
+}

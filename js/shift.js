@@ -119,13 +119,15 @@ function createCanvas() {
 		a: document.createElement('canvas'),
 		b: document.createElement('canvas')
 	};
-	canvas.b.style = `
-		position: fixed;
+
+/* 	canvas.b.style = `
+	 	position: fixed; 
 		top: 0;
 		left: 0;
 		width: 100%;
 		height: 100%;
-	`;
+	`; */
+
 	container.appendChild(canvas.b);
 	ctx = {
 		a: canvas.a.getContext('2d'),
